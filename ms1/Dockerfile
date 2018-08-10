@@ -1,1 +1,1 @@
-From microsoft/aspnetcore-build:2.0 AS build
+From microsoft/aspnetcore-build:2.0
