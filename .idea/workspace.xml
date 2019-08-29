@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1922f1b4-1d11-4fdb-a8e7-b4fa25bdcd47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flannel/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flannel/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/flannel/Dockerfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/flannel/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="53" selection-start-column="53" selection-end-column="53" />
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -216,7 +216,7 @@
     <entry file="file://$PROJECT_DIR$/flannel/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="53" selection-start-column="53" selection-end-column="53" />
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
