@@ -1,1 +1,1 @@
-FROM tdengine/tdgpt-full:3.4.0.0
+FROM tdengine/tdgpt:3.3.8.8
